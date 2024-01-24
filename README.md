@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ecommerce and learning coding.
 - 🌱 I’m currently learning HTML, CSS, & Javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me E-mail @ Hvangsvik@gmnail.com
+- 📫 How to reach me E-mail @ Hvangsvik@gmail.com
 
 <!---
 Vangsvik/Vangsvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
