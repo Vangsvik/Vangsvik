@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vangsvik
 - 👀 I’m interested in Ecommerce and learning coding.
-- 🌱 I’m currently learning HTML, CSS, & Javascript 
+- 🌱 I’m currently learning HTML, CSS,C# .NET & Javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail @ Hvangsvik@gmail.com
 
